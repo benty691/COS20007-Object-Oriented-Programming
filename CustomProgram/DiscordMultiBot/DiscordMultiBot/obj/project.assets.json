@@ -5358,35 +5358,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Duc Anh\\.nuget\\packages\\": {},
-    "E:\\App\\VSCode\\Components\\NuGetPackages": {}
+    "/Users/dalebent/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Duc Anh\\Desktop\\CustomProgram\\New folder\\MultiBot\\DiscordMultiBot\\DiscordMultiBot\\DiscordMultiBot.csproj",
+      "projectUniqueName": "/Users/dalebent/Documents/GitHub/COS20007-Object-Oriented-Programming/CustomProgram/DiscordMultiBot/DiscordMultiBot/DiscordMultiBot.csproj",
       "projectName": "DiscordMultiBot",
-      "projectPath": "C:\\Users\\Duc Anh\\Desktop\\CustomProgram\\New folder\\MultiBot\\DiscordMultiBot\\DiscordMultiBot\\DiscordMultiBot.csproj",
-      "packagesPath": "C:\\Users\\Duc Anh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Duc Anh\\Desktop\\CustomProgram\\New folder\\MultiBot\\DiscordMultiBot\\DiscordMultiBot\\obj\\",
+      "projectPath": "/Users/dalebent/Documents/GitHub/COS20007-Object-Oriented-Programming/CustomProgram/DiscordMultiBot/DiscordMultiBot/DiscordMultiBot.csproj",
+      "packagesPath": "/Users/dalebent/.nuget/packages/",
+      "outputPath": "/Users/dalebent/Documents/GitHub/COS20007-Object-Oriented-Programming/CustomProgram/DiscordMultiBot/DiscordMultiBot/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "E:\\App\\VSCode\\Components\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Duc Anh\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/dalebent/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://nuget.emzi0767.com/api/v3/index.json": {},
-        "https://www.myget.org/F/discord-net/api/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
@@ -5448,12 +5438,26 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.14, 6.0.14]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.osx-arm64",
+            "version": "[6.0.14, 6.0.14]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.14, 6.0.14]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.201/RuntimeIdentifierGraph.json"
       }
     }
   }
