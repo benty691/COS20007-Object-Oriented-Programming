@@ -50,6 +50,10 @@
               "target": "Package",
               "version": "[4.2.0, )"
             },
+            "Discord.Net": {
+              "target": "Package",
+              "version": "[3.16.0, )"
+            },
             "Google.Apis": {
               "target": "Package",
               "version": "[1.57.0, )"
@@ -66,9 +70,17 @@
               "target": "Package",
               "version": "[1.57.0.2756, )"
             },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.72, )"
+            },
             "MySql.Data": {
               "target": "Package",
               "version": "[8.0.31, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.9.2, )"
             }
           },
           "imports": [
