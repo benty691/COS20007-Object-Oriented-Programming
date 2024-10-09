@@ -72,89 +72,162 @@ C:/Users/Duc Anh/Desktop/MultiBot/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6
 /Users/anhdang/Documents/#University/OOP/CustomProgram/MultiBot/DiscordMultiBot/DiscordMultiBot/obj/Debug/net6.0/DiscordMultiBot.pdb
 /Users/anhdang/Documents/#University/OOP/CustomProgram/MultiBot/DiscordMultiBot/DiscordMultiBot/obj/Debug/net6.0/DiscordMultiBot.genruntimeconfig.cache
 /Users/anhdang/Documents/#University/OOP/CustomProgram/MultiBot/DiscordMultiBot/DiscordMultiBot/obj/Debug/net6.0/ref/DiscordMultiBot.dll
-C:\Users\Duc Anh\Desktop\CustomProgram\MultiBot\DiscordMultiBot\DiscordMultiBot\bin\Debug\net6.0\DiscordMultiBot.exe
-C:\Users\Duc Anh\Desktop\CustomProgram\MultiBot\DiscordMultiBot\DiscordMultiBot\bin\Debug\net6.0\DiscordMultiBot.deps.json
-C:\Users\Duc Anh\Desktop\CustomProgram\MultiBot\DiscordMultiBot\DiscordMultiBot\bin\Debug\net6.0\DiscordMultiBot.runtimeconfig.json
-C:\Users\Duc Anh\Desktop\CustomProgram\MultiBot\DiscordMultiBot\DiscordMultiBot\bin\Debug\net6.0\DiscordMultiBot.dll
-C:\Users\Duc Anh\Desktop\CustomProgram\MultiBot\DiscordMultiBot\DiscordMultiBot\bin\Debug\net6.0\DiscordMultiBot.pdb
-C:\Users\Duc Anh\Desktop\CustomProgram\MultiBot\DiscordMultiBot\DiscordMultiBot\bin\Debug\net6.0\ConcurrentCollections.dll
-C:\Users\Duc Anh\Desktop\CustomProgram\MultiBot\DiscordMultiBot\DiscordMultiBot\bin\Debug\net6.0\DSharpPlus.dll
-C:\Users\Duc Anh\Desktop\CustomProgram\MultiBot\DiscordMultiBot\DiscordMultiBot\bin\Debug\net6.0\DSharpPlus.CommandsNext.dll
-C:\Users\Duc Anh\Desktop\CustomProgram\MultiBot\DiscordMultiBot\DiscordMultiBot\bin\Debug\net6.0\DSharpPlus.Interactivity.dll
-C:\Users\Duc Anh\Desktop\CustomProgram\MultiBot\DiscordMultiBot\DiscordMultiBot\bin\Debug\net6.0\Emzi0767.Common.dll
-C:\Users\Duc Anh\Desktop\CustomProgram\MultiBot\DiscordMultiBot\DiscordMultiBot\bin\Debug\net6.0\Google.Apis.dll
-C:\Users\Duc Anh\Desktop\CustomProgram\MultiBot\DiscordMultiBot\DiscordMultiBot\bin\Debug\net6.0\Google.Apis.Auth.PlatformServices.dll
-C:\Users\Duc Anh\Desktop\CustomProgram\MultiBot\DiscordMultiBot\DiscordMultiBot\bin\Debug\net6.0\Google.Apis.Auth.dll
-C:\Users\Duc Anh\Desktop\CustomProgram\MultiBot\DiscordMultiBot\DiscordMultiBot\bin\Debug\net6.0\Google.Apis.Core.dll
-C:\Users\Duc Anh\Desktop\CustomProgram\MultiBot\DiscordMultiBot\DiscordMultiBot\bin\Debug\net6.0\Google.Apis.Sheets.v4.dll
-C:\Users\Duc Anh\Desktop\CustomProgram\MultiBot\DiscordMultiBot\DiscordMultiBot\bin\Debug\net6.0\Google.Apis.YouTube.v3.dll
-C:\Users\Duc Anh\Desktop\CustomProgram\MultiBot\DiscordMultiBot\DiscordMultiBot\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\Duc Anh\Desktop\CustomProgram\MultiBot\DiscordMultiBot\DiscordMultiBot\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\Duc Anh\Desktop\CustomProgram\MultiBot\DiscordMultiBot\DiscordMultiBot\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\Duc Anh\Desktop\CustomProgram\MultiBot\DiscordMultiBot\DiscordMultiBot\bin\Debug\net6.0\Newtonsoft.Json.dll
-C:\Users\Duc Anh\Desktop\CustomProgram\MultiBot\DiscordMultiBot\DiscordMultiBot\bin\Debug\net6.0\System.Data.SqlClient.dll
-C:\Users\Duc Anh\Desktop\CustomProgram\MultiBot\DiscordMultiBot\DiscordMultiBot\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
-C:\Users\Duc Anh\Desktop\CustomProgram\MultiBot\DiscordMultiBot\DiscordMultiBot\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
-C:\Users\Duc Anh\Desktop\CustomProgram\MultiBot\DiscordMultiBot\DiscordMultiBot\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
-C:\Users\Duc Anh\Desktop\CustomProgram\MultiBot\DiscordMultiBot\DiscordMultiBot\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
-C:\Users\Duc Anh\Desktop\CustomProgram\MultiBot\DiscordMultiBot\DiscordMultiBot\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
-C:\Users\Duc Anh\Desktop\CustomProgram\MultiBot\DiscordMultiBot\DiscordMultiBot\obj\Debug\net6.0\DiscordMultiBot.csproj.AssemblyReference.cache
-C:\Users\Duc Anh\Desktop\CustomProgram\MultiBot\DiscordMultiBot\DiscordMultiBot\obj\Debug\net6.0\DiscordMultiBot.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Duc Anh\Desktop\CustomProgram\MultiBot\DiscordMultiBot\DiscordMultiBot\obj\Debug\net6.0\DiscordMultiBot.AssemblyInfoInputs.cache
-C:\Users\Duc Anh\Desktop\CustomProgram\MultiBot\DiscordMultiBot\DiscordMultiBot\obj\Debug\net6.0\DiscordMultiBot.AssemblyInfo.cs
-C:\Users\Duc Anh\Desktop\CustomProgram\MultiBot\DiscordMultiBot\DiscordMultiBot\obj\Debug\net6.0\DiscordMultiBot.csproj.CoreCompileInputs.cache
-C:\Users\Duc Anh\Desktop\CustomProgram\MultiBot\DiscordMultiBot\DiscordMultiBot\obj\Debug\net6.0\DiscordMultiBot.csproj.CopyComplete
-C:\Users\Duc Anh\Desktop\CustomProgram\MultiBot\DiscordMultiBot\DiscordMultiBot\obj\Debug\net6.0\DiscordMultiBot.dll
-C:\Users\Duc Anh\Desktop\CustomProgram\MultiBot\DiscordMultiBot\DiscordMultiBot\obj\Debug\net6.0\refint\DiscordMultiBot.dll
-C:\Users\Duc Anh\Desktop\CustomProgram\MultiBot\DiscordMultiBot\DiscordMultiBot\obj\Debug\net6.0\DiscordMultiBot.pdb
-C:\Users\Duc Anh\Desktop\CustomProgram\MultiBot\DiscordMultiBot\DiscordMultiBot\obj\Debug\net6.0\DiscordMultiBot.genruntimeconfig.cache
-C:\Users\Duc Anh\Desktop\CustomProgram\MultiBot\DiscordMultiBot\DiscordMultiBot\obj\Debug\net6.0\ref\DiscordMultiBot.dll
-C:\Users\Duc Anh\Desktop\CustomProgram\New folder\MultiBot\DiscordMultiBot\DiscordMultiBot\bin\Debug\net6.0\DiscordMultiBot.exe
-C:\Users\Duc Anh\Desktop\CustomProgram\New folder\MultiBot\DiscordMultiBot\DiscordMultiBot\bin\Debug\net6.0\DiscordMultiBot.deps.json
-C:\Users\Duc Anh\Desktop\CustomProgram\New folder\MultiBot\DiscordMultiBot\DiscordMultiBot\bin\Debug\net6.0\DiscordMultiBot.runtimeconfig.json
-C:\Users\Duc Anh\Desktop\CustomProgram\New folder\MultiBot\DiscordMultiBot\DiscordMultiBot\bin\Debug\net6.0\DiscordMultiBot.dll
-C:\Users\Duc Anh\Desktop\CustomProgram\New folder\MultiBot\DiscordMultiBot\DiscordMultiBot\bin\Debug\net6.0\DiscordMultiBot.pdb
-C:\Users\Duc Anh\Desktop\CustomProgram\New folder\MultiBot\DiscordMultiBot\DiscordMultiBot\bin\Debug\net6.0\ConcurrentCollections.dll
-C:\Users\Duc Anh\Desktop\CustomProgram\New folder\MultiBot\DiscordMultiBot\DiscordMultiBot\bin\Debug\net6.0\DSharpPlus.dll
-C:\Users\Duc Anh\Desktop\CustomProgram\New folder\MultiBot\DiscordMultiBot\DiscordMultiBot\bin\Debug\net6.0\DSharpPlus.CommandsNext.dll
-C:\Users\Duc Anh\Desktop\CustomProgram\New folder\MultiBot\DiscordMultiBot\DiscordMultiBot\bin\Debug\net6.0\DSharpPlus.Interactivity.dll
-C:\Users\Duc Anh\Desktop\CustomProgram\New folder\MultiBot\DiscordMultiBot\DiscordMultiBot\bin\Debug\net6.0\Emzi0767.Common.dll
-C:\Users\Duc Anh\Desktop\CustomProgram\New folder\MultiBot\DiscordMultiBot\DiscordMultiBot\bin\Debug\net6.0\Google.Apis.dll
-C:\Users\Duc Anh\Desktop\CustomProgram\New folder\MultiBot\DiscordMultiBot\DiscordMultiBot\bin\Debug\net6.0\Google.Apis.Auth.PlatformServices.dll
-C:\Users\Duc Anh\Desktop\CustomProgram\New folder\MultiBot\DiscordMultiBot\DiscordMultiBot\bin\Debug\net6.0\Google.Apis.Auth.dll
-C:\Users\Duc Anh\Desktop\CustomProgram\New folder\MultiBot\DiscordMultiBot\DiscordMultiBot\bin\Debug\net6.0\Google.Apis.Core.dll
-C:\Users\Duc Anh\Desktop\CustomProgram\New folder\MultiBot\DiscordMultiBot\DiscordMultiBot\bin\Debug\net6.0\Google.Apis.Sheets.v4.dll
-C:\Users\Duc Anh\Desktop\CustomProgram\New folder\MultiBot\DiscordMultiBot\DiscordMultiBot\bin\Debug\net6.0\Google.Apis.YouTube.v3.dll
-C:\Users\Duc Anh\Desktop\CustomProgram\New folder\MultiBot\DiscordMultiBot\DiscordMultiBot\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\Duc Anh\Desktop\CustomProgram\New folder\MultiBot\DiscordMultiBot\DiscordMultiBot\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\Duc Anh\Desktop\CustomProgram\New folder\MultiBot\DiscordMultiBot\DiscordMultiBot\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\Duc Anh\Desktop\CustomProgram\New folder\MultiBot\DiscordMultiBot\DiscordMultiBot\bin\Debug\net6.0\Newtonsoft.Json.dll
-C:\Users\Duc Anh\Desktop\CustomProgram\New folder\MultiBot\DiscordMultiBot\DiscordMultiBot\obj\Debug\net6.0\DiscordMultiBot.csproj.AssemblyReference.cache
-C:\Users\Duc Anh\Desktop\CustomProgram\New folder\MultiBot\DiscordMultiBot\DiscordMultiBot\obj\Debug\net6.0\DiscordMultiBot.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Duc Anh\Desktop\CustomProgram\New folder\MultiBot\DiscordMultiBot\DiscordMultiBot\obj\Debug\net6.0\DiscordMultiBot.AssemblyInfoInputs.cache
-C:\Users\Duc Anh\Desktop\CustomProgram\New folder\MultiBot\DiscordMultiBot\DiscordMultiBot\obj\Debug\net6.0\DiscordMultiBot.AssemblyInfo.cs
-C:\Users\Duc Anh\Desktop\CustomProgram\New folder\MultiBot\DiscordMultiBot\DiscordMultiBot\obj\Debug\net6.0\DiscordMultiBot.csproj.CoreCompileInputs.cache
-C:\Users\Duc Anh\Desktop\CustomProgram\New folder\MultiBot\DiscordMultiBot\DiscordMultiBot\obj\Debug\net6.0\DiscordMultiBot.csproj.CopyComplete
-C:\Users\Duc Anh\Desktop\CustomProgram\New folder\MultiBot\DiscordMultiBot\DiscordMultiBot\obj\Debug\net6.0\DiscordMultiBot.dll
-C:\Users\Duc Anh\Desktop\CustomProgram\New folder\MultiBot\DiscordMultiBot\DiscordMultiBot\obj\Debug\net6.0\refint\DiscordMultiBot.dll
-C:\Users\Duc Anh\Desktop\CustomProgram\New folder\MultiBot\DiscordMultiBot\DiscordMultiBot\obj\Debug\net6.0\DiscordMultiBot.pdb
-C:\Users\Duc Anh\Desktop\CustomProgram\New folder\MultiBot\DiscordMultiBot\DiscordMultiBot\obj\Debug\net6.0\DiscordMultiBot.genruntimeconfig.cache
-C:\Users\Duc Anh\Desktop\CustomProgram\New folder\MultiBot\DiscordMultiBot\DiscordMultiBot\obj\Debug\net6.0\ref\DiscordMultiBot.dll
-C:\Users\Duc Anh\Desktop\CustomProgram\New folder\MultiBot\DiscordMultiBot\DiscordMultiBot\bin\Debug\net6.0\Google.Protobuf.dll
-C:\Users\Duc Anh\Desktop\CustomProgram\New folder\MultiBot\DiscordMultiBot\DiscordMultiBot\bin\Debug\net6.0\K4os.Compression.LZ4.dll
-C:\Users\Duc Anh\Desktop\CustomProgram\New folder\MultiBot\DiscordMultiBot\DiscordMultiBot\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
-C:\Users\Duc Anh\Desktop\CustomProgram\New folder\MultiBot\DiscordMultiBot\DiscordMultiBot\bin\Debug\net6.0\K4os.Hash.xxHash.dll
-C:\Users\Duc Anh\Desktop\CustomProgram\New folder\MultiBot\DiscordMultiBot\DiscordMultiBot\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\Duc Anh\Desktop\CustomProgram\New folder\MultiBot\DiscordMultiBot\DiscordMultiBot\bin\Debug\net6.0\MySql.Data.dll
-C:\Users\Duc Anh\Desktop\CustomProgram\New folder\MultiBot\DiscordMultiBot\DiscordMultiBot\bin\Debug\net6.0\ZstdNet.dll
-C:\Users\Duc Anh\Desktop\CustomProgram\New folder\MultiBot\DiscordMultiBot\DiscordMultiBot\bin\Debug\net6.0\BouncyCastle.Crypto.dll
-C:\Users\Duc Anh\Desktop\CustomProgram\New folder\MultiBot\DiscordMultiBot\DiscordMultiBot\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
-C:\Users\Duc Anh\Desktop\CustomProgram\New folder\MultiBot\DiscordMultiBot\DiscordMultiBot\bin\Debug\net6.0\System.Drawing.Common.dll
-C:\Users\Duc Anh\Desktop\CustomProgram\New folder\MultiBot\DiscordMultiBot\DiscordMultiBot\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\Duc Anh\Desktop\CustomProgram\New folder\MultiBot\DiscordMultiBot\DiscordMultiBot\bin\Debug\net6.0\System.Security.Permissions.dll
-C:\Users\Duc Anh\Desktop\CustomProgram\New folder\MultiBot\DiscordMultiBot\DiscordMultiBot\bin\Debug\net6.0\System.Windows.Extensions.dll
-C:\Users\Duc Anh\Desktop\CustomProgram\New folder\MultiBot\DiscordMultiBot\DiscordMultiBot\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\Duc Anh\Desktop\CustomProgram\New folder\MultiBot\DiscordMultiBot\DiscordMultiBot\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
-C:\Users\Duc Anh\Desktop\CustomProgram\New folder\MultiBot\DiscordMultiBot\DiscordMultiBot\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
-C:\Users\Duc Anh\Desktop\CustomProgram\New folder\MultiBot\DiscordMultiBot\DiscordMultiBot\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\Duc Anh\Desktop\CustomProgram\New folder\MultiBot\DiscordMultiBot\DiscordMultiBot\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:/Users/Duc Anh/Desktop/CustomProgram/MultiBot/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/DiscordMultiBot.exe
+C:/Users/Duc Anh/Desktop/CustomProgram/MultiBot/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/DiscordMultiBot.deps.json
+C:/Users/Duc Anh/Desktop/CustomProgram/MultiBot/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/DiscordMultiBot.runtimeconfig.json
+C:/Users/Duc Anh/Desktop/CustomProgram/MultiBot/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/DiscordMultiBot.dll
+C:/Users/Duc Anh/Desktop/CustomProgram/MultiBot/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/DiscordMultiBot.pdb
+C:/Users/Duc Anh/Desktop/CustomProgram/MultiBot/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/ConcurrentCollections.dll
+C:/Users/Duc Anh/Desktop/CustomProgram/MultiBot/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/DSharpPlus.dll
+C:/Users/Duc Anh/Desktop/CustomProgram/MultiBot/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/DSharpPlus.CommandsNext.dll
+C:/Users/Duc Anh/Desktop/CustomProgram/MultiBot/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/DSharpPlus.Interactivity.dll
+C:/Users/Duc Anh/Desktop/CustomProgram/MultiBot/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/Emzi0767.Common.dll
+C:/Users/Duc Anh/Desktop/CustomProgram/MultiBot/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/Google.Apis.dll
+C:/Users/Duc Anh/Desktop/CustomProgram/MultiBot/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/Google.Apis.Auth.PlatformServices.dll
+C:/Users/Duc Anh/Desktop/CustomProgram/MultiBot/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/Google.Apis.Auth.dll
+C:/Users/Duc Anh/Desktop/CustomProgram/MultiBot/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/Google.Apis.Core.dll
+C:/Users/Duc Anh/Desktop/CustomProgram/MultiBot/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/Google.Apis.Sheets.v4.dll
+C:/Users/Duc Anh/Desktop/CustomProgram/MultiBot/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/Google.Apis.YouTube.v3.dll
+C:/Users/Duc Anh/Desktop/CustomProgram/MultiBot/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/Duc Anh/Desktop/CustomProgram/MultiBot/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/Duc Anh/Desktop/CustomProgram/MultiBot/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/Duc Anh/Desktop/CustomProgram/MultiBot/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/Newtonsoft.Json.dll
+C:/Users/Duc Anh/Desktop/CustomProgram/MultiBot/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/System.Data.SqlClient.dll
+C:/Users/Duc Anh/Desktop/CustomProgram/MultiBot/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/runtimes/win-arm64/native/sni.dll
+C:/Users/Duc Anh/Desktop/CustomProgram/MultiBot/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/runtimes/win-x64/native/sni.dll
+C:/Users/Duc Anh/Desktop/CustomProgram/MultiBot/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/runtimes/win-x86/native/sni.dll
+C:/Users/Duc Anh/Desktop/CustomProgram/MultiBot/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/Users/Duc Anh/Desktop/CustomProgram/MultiBot/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/Users/Duc Anh/Desktop/CustomProgram/MultiBot/DiscordMultiBot/DiscordMultiBot/obj/Debug/net6.0/DiscordMultiBot.csproj.AssemblyReference.cache
+C:/Users/Duc Anh/Desktop/CustomProgram/MultiBot/DiscordMultiBot/DiscordMultiBot/obj/Debug/net6.0/DiscordMultiBot.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Duc Anh/Desktop/CustomProgram/MultiBot/DiscordMultiBot/DiscordMultiBot/obj/Debug/net6.0/DiscordMultiBot.AssemblyInfoInputs.cache
+C:/Users/Duc Anh/Desktop/CustomProgram/MultiBot/DiscordMultiBot/DiscordMultiBot/obj/Debug/net6.0/DiscordMultiBot.AssemblyInfo.cs
+C:/Users/Duc Anh/Desktop/CustomProgram/MultiBot/DiscordMultiBot/DiscordMultiBot/obj/Debug/net6.0/DiscordMultiBot.csproj.CoreCompileInputs.cache
+C:/Users/Duc Anh/Desktop/CustomProgram/MultiBot/DiscordMultiBot/DiscordMultiBot/obj/Debug/net6.0/DiscordMultiBot.csproj.CopyComplete
+C:/Users/Duc Anh/Desktop/CustomProgram/MultiBot/DiscordMultiBot/DiscordMultiBot/obj/Debug/net6.0/DiscordMultiBot.dll
+C:/Users/Duc Anh/Desktop/CustomProgram/MultiBot/DiscordMultiBot/DiscordMultiBot/obj/Debug/net6.0/refint/DiscordMultiBot.dll
+C:/Users/Duc Anh/Desktop/CustomProgram/MultiBot/DiscordMultiBot/DiscordMultiBot/obj/Debug/net6.0/DiscordMultiBot.pdb
+C:/Users/Duc Anh/Desktop/CustomProgram/MultiBot/DiscordMultiBot/DiscordMultiBot/obj/Debug/net6.0/DiscordMultiBot.genruntimeconfig.cache
+C:/Users/Duc Anh/Desktop/CustomProgram/MultiBot/DiscordMultiBot/DiscordMultiBot/obj/Debug/net6.0/ref/DiscordMultiBot.dll
+C:/Users/Duc Anh/Desktop/CustomProgram/New folder/MultiBot/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/DiscordMultiBot.exe
+C:/Users/Duc Anh/Desktop/CustomProgram/New folder/MultiBot/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/DiscordMultiBot.deps.json
+C:/Users/Duc Anh/Desktop/CustomProgram/New folder/MultiBot/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/DiscordMultiBot.runtimeconfig.json
+C:/Users/Duc Anh/Desktop/CustomProgram/New folder/MultiBot/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/DiscordMultiBot.dll
+C:/Users/Duc Anh/Desktop/CustomProgram/New folder/MultiBot/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/DiscordMultiBot.pdb
+C:/Users/Duc Anh/Desktop/CustomProgram/New folder/MultiBot/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/ConcurrentCollections.dll
+C:/Users/Duc Anh/Desktop/CustomProgram/New folder/MultiBot/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/DSharpPlus.dll
+C:/Users/Duc Anh/Desktop/CustomProgram/New folder/MultiBot/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/DSharpPlus.CommandsNext.dll
+C:/Users/Duc Anh/Desktop/CustomProgram/New folder/MultiBot/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/DSharpPlus.Interactivity.dll
+C:/Users/Duc Anh/Desktop/CustomProgram/New folder/MultiBot/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/Emzi0767.Common.dll
+C:/Users/Duc Anh/Desktop/CustomProgram/New folder/MultiBot/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/Google.Apis.dll
+C:/Users/Duc Anh/Desktop/CustomProgram/New folder/MultiBot/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/Google.Apis.Auth.PlatformServices.dll
+C:/Users/Duc Anh/Desktop/CustomProgram/New folder/MultiBot/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/Google.Apis.Auth.dll
+C:/Users/Duc Anh/Desktop/CustomProgram/New folder/MultiBot/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/Google.Apis.Core.dll
+C:/Users/Duc Anh/Desktop/CustomProgram/New folder/MultiBot/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/Google.Apis.Sheets.v4.dll
+C:/Users/Duc Anh/Desktop/CustomProgram/New folder/MultiBot/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/Google.Apis.YouTube.v3.dll
+C:/Users/Duc Anh/Desktop/CustomProgram/New folder/MultiBot/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/Duc Anh/Desktop/CustomProgram/New folder/MultiBot/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/Duc Anh/Desktop/CustomProgram/New folder/MultiBot/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/Duc Anh/Desktop/CustomProgram/New folder/MultiBot/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/Newtonsoft.Json.dll
+C:/Users/Duc Anh/Desktop/CustomProgram/New folder/MultiBot/DiscordMultiBot/DiscordMultiBot/obj/Debug/net6.0/DiscordMultiBot.csproj.AssemblyReference.cache
+C:/Users/Duc Anh/Desktop/CustomProgram/New folder/MultiBot/DiscordMultiBot/DiscordMultiBot/obj/Debug/net6.0/DiscordMultiBot.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Duc Anh/Desktop/CustomProgram/New folder/MultiBot/DiscordMultiBot/DiscordMultiBot/obj/Debug/net6.0/DiscordMultiBot.AssemblyInfoInputs.cache
+C:/Users/Duc Anh/Desktop/CustomProgram/New folder/MultiBot/DiscordMultiBot/DiscordMultiBot/obj/Debug/net6.0/DiscordMultiBot.AssemblyInfo.cs
+C:/Users/Duc Anh/Desktop/CustomProgram/New folder/MultiBot/DiscordMultiBot/DiscordMultiBot/obj/Debug/net6.0/DiscordMultiBot.csproj.CoreCompileInputs.cache
+C:/Users/Duc Anh/Desktop/CustomProgram/New folder/MultiBot/DiscordMultiBot/DiscordMultiBot/obj/Debug/net6.0/DiscordMultiBot.csproj.CopyComplete
+C:/Users/Duc Anh/Desktop/CustomProgram/New folder/MultiBot/DiscordMultiBot/DiscordMultiBot/obj/Debug/net6.0/DiscordMultiBot.dll
+C:/Users/Duc Anh/Desktop/CustomProgram/New folder/MultiBot/DiscordMultiBot/DiscordMultiBot/obj/Debug/net6.0/refint/DiscordMultiBot.dll
+C:/Users/Duc Anh/Desktop/CustomProgram/New folder/MultiBot/DiscordMultiBot/DiscordMultiBot/obj/Debug/net6.0/DiscordMultiBot.pdb
+C:/Users/Duc Anh/Desktop/CustomProgram/New folder/MultiBot/DiscordMultiBot/DiscordMultiBot/obj/Debug/net6.0/DiscordMultiBot.genruntimeconfig.cache
+C:/Users/Duc Anh/Desktop/CustomProgram/New folder/MultiBot/DiscordMultiBot/DiscordMultiBot/obj/Debug/net6.0/ref/DiscordMultiBot.dll
+C:/Users/Duc Anh/Desktop/CustomProgram/New folder/MultiBot/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/Google.Protobuf.dll
+C:/Users/Duc Anh/Desktop/CustomProgram/New folder/MultiBot/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/K4os.Compression.LZ4.dll
+C:/Users/Duc Anh/Desktop/CustomProgram/New folder/MultiBot/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/K4os.Compression.LZ4.Streams.dll
+C:/Users/Duc Anh/Desktop/CustomProgram/New folder/MultiBot/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/K4os.Hash.xxHash.dll
+C:/Users/Duc Anh/Desktop/CustomProgram/New folder/MultiBot/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Duc Anh/Desktop/CustomProgram/New folder/MultiBot/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/MySql.Data.dll
+C:/Users/Duc Anh/Desktop/CustomProgram/New folder/MultiBot/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/ZstdNet.dll
+C:/Users/Duc Anh/Desktop/CustomProgram/New folder/MultiBot/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/BouncyCastle.Crypto.dll
+C:/Users/Duc Anh/Desktop/CustomProgram/New folder/MultiBot/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+C:/Users/Duc Anh/Desktop/CustomProgram/New folder/MultiBot/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/System.Drawing.Common.dll
+C:/Users/Duc Anh/Desktop/CustomProgram/New folder/MultiBot/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Duc Anh/Desktop/CustomProgram/New folder/MultiBot/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/System.Security.Permissions.dll
+C:/Users/Duc Anh/Desktop/CustomProgram/New folder/MultiBot/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/System.Windows.Extensions.dll
+C:/Users/Duc Anh/Desktop/CustomProgram/New folder/MultiBot/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Duc Anh/Desktop/CustomProgram/New folder/MultiBot/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Duc Anh/Desktop/CustomProgram/New folder/MultiBot/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Duc Anh/Desktop/CustomProgram/New folder/MultiBot/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Duc Anh/Desktop/CustomProgram/New folder/MultiBot/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/NUnit3.TestAdapter.dll
+/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/NUnit3.TestAdapter.pdb
+/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/nunit.engine.dll
+/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/nunit.engine.api.dll
+/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/nunit.engine.core.dll
+/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/testcentric.engine.metadata.dll
+/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/DiscordMultiBot
+/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/DiscordMultiBot.deps.json
+/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/DiscordMultiBot.runtimeconfig.json
+/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/DiscordMultiBot.dll
+/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/DiscordMultiBot.pdb
+/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/Castle.Core.dll
+/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/ConcurrentCollections.dll
+/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/Discord.Net.Commands.dll
+/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/Discord.Net.Core.dll
+/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/Discord.Net.Interactions.dll
+/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/Discord.Net.Rest.dll
+/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/Discord.Net.Webhook.dll
+/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/Discord.Net.WebSocket.dll
+/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/DSharpPlus.dll
+/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/DSharpPlus.CommandsNext.dll
+/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/DSharpPlus.Interactivity.dll
+/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/Emzi0767.Common.dll
+/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/Google.Apis.dll
+/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/Google.Apis.Auth.PlatformServices.dll
+/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/Google.Apis.Auth.dll
+/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/Google.Apis.Core.dll
+/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/Google.Apis.Sheets.v4.dll
+/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/Google.Apis.YouTube.v3.dll
+/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/Google.Protobuf.dll
+/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/K4os.Compression.LZ4.dll
+/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/K4os.Compression.LZ4.Streams.dll
+/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/K4os.Hash.xxHash.dll
+/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/Moq.dll
+/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/MySql.Data.dll
+/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/ZstdNet.dll
+/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/NuGet.Frameworks.dll
+/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/nunit.framework.dll
+/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/nunit.framework.legacy.dll
+/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/BouncyCastle.Crypto.dll
+/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/System.Diagnostics.EventLog.dll
+/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/System.Interactive.Async.dll
+/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/System.Linq.Async.dll
+/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/System.Reactive.dll
+/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Diagnostics.EventLog.Messages.dll
+/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Diagnostics.EventLog.dll
+/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordMultiBot/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordMultiBot/obj/Debug/net6.0/DiscordMultiBot.csproj.AssemblyReference.cache
+/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordMultiBot/obj/Debug/net6.0/DiscordMultiBot.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordMultiBot/obj/Debug/net6.0/DiscordMultiBot.AssemblyInfoInputs.cache
+/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordMultiBot/obj/Debug/net6.0/DiscordMultiBot.AssemblyInfo.cs
+/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordMultiBot/obj/Debug/net6.0/DiscordMultiBot.csproj.CoreCompileInputs.cache
+/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordMultiBot/obj/Debug/net6.0/DiscordMultiBot.csproj.CopyComplete
+/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordMultiBot/obj/Debug/net6.0/DiscordMultiBot.dll
+/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordMultiBot/obj/Debug/net6.0/refint/DiscordMultiBot.dll
+/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordMultiBot/obj/Debug/net6.0/DiscordMultiBot.pdb
+/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordMultiBot/obj/Debug/net6.0/DiscordMultiBot.genruntimeconfig.cache
+/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordMultiBot/obj/Debug/net6.0/ref/DiscordMultiBot.dll

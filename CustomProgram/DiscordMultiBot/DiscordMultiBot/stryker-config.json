@@ -1,0 +1,12 @@
+﻿{
+  "stryker-config": {
+    "reporters": [
+      "html",
+      "progress",
+      "cleartext"
+    ],
+    "project": "DiscordMultiBot.csproj",
+    "solution": "../DiscordMultiBot.sln",
+    "coverage-analysis": "perTest"
+  }
+}

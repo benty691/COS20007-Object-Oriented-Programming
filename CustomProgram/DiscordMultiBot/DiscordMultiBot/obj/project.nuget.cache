@@ -1,10 +1,9 @@
 {
   "version": 2,
-  "dgSpecHash": "XW5gOxmRIqOeugX3pjmaXVY3NoAe+whPzSFHefbCHn9CFkdSfajj3prpR8ziOVCHQj/ZMS7GFSgIh9YrY9jN+w==",
+  "dgSpecHash": "y1jHG0wbVV/0z+fWS0MVUa8pNf+KI1utXrr0TF3SApS5XLPkeLpE2vmaBqrJoaPHvBTQnpMWW6VLv7QwgvCbaA==",
   "success": true,
-  "projectFilePath": "/Users/dalebent/Documents/GitHub/COS20007-Object-Oriented-Programming/CustomProgram/DiscordMultiBot/DiscordMultiBot/DiscordMultiBot.csproj",
+  "projectFilePath": "/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordMultiBot/DiscordMultiBot.csproj",
   "expectedPackageFiles": [
-    "/Users/dalebent/.nuget/packages/castle.core/5.1.1/castle.core.5.1.1.nupkg.sha512",
     "/Users/dalebent/.nuget/packages/concurrenthashset/1.1.0/concurrenthashset.1.1.0.nupkg.sha512",
     "/Users/dalebent/.nuget/packages/discord.net/3.16.0/discord.net.3.16.0.nupkg.sha512",
     "/Users/dalebent/.nuget/packages/discord.net.commands/3.16.0/discord.net.commands.3.16.0.nupkg.sha512",
@@ -34,9 +33,9 @@
     "/Users/dalebent/.nuget/packages/microsoft.netcore.targets/1.1.0/microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "/Users/dalebent/.nuget/packages/microsoft.win32.primitives/4.3.0/microsoft.win32.primitives.4.3.0.nupkg.sha512",
     "/Users/dalebent/.nuget/packages/microsoft.win32.systemevents/4.7.0/microsoft.win32.systemevents.4.7.0.nupkg.sha512",
-    "/Users/dalebent/.nuget/packages/moq/4.20.72/moq.4.20.72.nupkg.sha512",
     "/Users/dalebent/.nuget/packages/mysql.data/8.0.31/mysql.data.8.0.31.nupkg.sha512",
     "/Users/dalebent/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/Users/dalebent/.nuget/packages/nuget.frameworks/6.11.1/nuget.frameworks.6.11.1.nupkg.sha512",
     "/Users/dalebent/.nuget/packages/portable.bouncycastle/1.9.0/portable.bouncycastle.1.9.0.nupkg.sha512",
     "/Users/dalebent/.nuget/packages/runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl/4.3.2/runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl.4.3.2.nupkg.sha512",
     "/Users/dalebent/.nuget/packages/runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl/4.3.2/runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl.4.3.2.nupkg.sha512",
@@ -61,7 +60,6 @@
     "/Users/dalebent/.nuget/packages/system.configuration.configurationmanager/4.4.1/system.configuration.configurationmanager.4.4.1.nupkg.sha512",
     "/Users/dalebent/.nuget/packages/system.diagnostics.debug/4.3.0/system.diagnostics.debug.4.3.0.nupkg.sha512",
     "/Users/dalebent/.nuget/packages/system.diagnostics.diagnosticsource/4.3.0/system.diagnostics.diagnosticsource.4.3.0.nupkg.sha512",
-    "/Users/dalebent/.nuget/packages/system.diagnostics.eventlog/6.0.0/system.diagnostics.eventlog.6.0.0.nupkg.sha512",
     "/Users/dalebent/.nuget/packages/system.diagnostics.tracing/4.3.0/system.diagnostics.tracing.4.3.0.nupkg.sha512",
     "/Users/dalebent/.nuget/packages/system.drawing.common/4.7.0/system.drawing.common.4.7.0.nupkg.sha512",
     "/Users/dalebent/.nuget/packages/system.globalization/4.3.0/system.globalization.4.3.0.nupkg.sha512",
@@ -116,17 +114,7 @@
     "/Users/dalebent/.nuget/packages/system.threading.threadpool/4.3.0/system.threading.threadpool.4.3.0.nupkg.sha512",
     "/Users/dalebent/.nuget/packages/system.threading.timer/4.3.0/system.threading.timer.4.3.0.nupkg.sha512",
     "/Users/dalebent/.nuget/packages/system.valuetuple/4.5.0/system.valuetuple.4.5.0.nupkg.sha512",
-    "/Users/dalebent/.nuget/packages/system.windows.extensions/4.7.0/system.windows.extensions.4.7.0.nupkg.sha512",
-    "/Users/dalebent/.nuget/packages/xunit/2.9.2/xunit.2.9.2.nupkg.sha512",
-    "/Users/dalebent/.nuget/packages/xunit.abstractions/2.0.3/xunit.abstractions.2.0.3.nupkg.sha512",
-    "/Users/dalebent/.nuget/packages/xunit.analyzers/1.16.0/xunit.analyzers.1.16.0.nupkg.sha512",
-    "/Users/dalebent/.nuget/packages/xunit.assert/2.9.2/xunit.assert.2.9.2.nupkg.sha512",
-    "/Users/dalebent/.nuget/packages/xunit.core/2.9.2/xunit.core.2.9.2.nupkg.sha512",
-    "/Users/dalebent/.nuget/packages/xunit.extensibility.core/2.9.2/xunit.extensibility.core.2.9.2.nupkg.sha512",
-    "/Users/dalebent/.nuget/packages/xunit.extensibility.execution/2.9.2/xunit.extensibility.execution.2.9.2.nupkg.sha512",
-    "/Users/dalebent/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.14/microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
-    "/Users/dalebent/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.14/microsoft.netcore.app.host.osx-arm64.6.0.14.nupkg.sha512",
-    "/Users/dalebent/.nuget/packages/microsoft.netcore.app.ref/6.0.14/microsoft.netcore.app.ref.6.0.14.nupkg.sha512"
+    "/Users/dalebent/.nuget/packages/system.windows.extensions/4.7.0/system.windows.extensions.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }
