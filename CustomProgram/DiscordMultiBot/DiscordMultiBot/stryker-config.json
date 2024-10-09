@@ -5,8 +5,8 @@
       "progress",
       "cleartext"
     ],
-    "project": "DiscordMultiBot.csproj",
-    "solution": "../DiscordMultiBot.sln",
+    "project": "./DiscordMultiBot.csproj",
+    "solution": "./DiscordMultiBot.sln",
     "coverage-analysis": "perTest"
   }
 }

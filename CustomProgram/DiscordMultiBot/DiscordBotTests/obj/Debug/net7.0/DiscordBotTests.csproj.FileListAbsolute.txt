@@ -1,0 +1,5 @@
+/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordBotTests/obj/Debug/net7.0/DiscordBotTests.csproj.AssemblyReference.cache
+/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordBotTests/obj/Debug/net7.0/DiscordBotTests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordBotTests/obj/Debug/net7.0/DiscordBotTests.AssemblyInfoInputs.cache
+/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordBotTests/obj/Debug/net7.0/DiscordBotTests.AssemblyInfo.cs
+/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordBotTests/obj/Debug/net7.0/DiscordBotTests.csproj.CoreCompileInputs.cache

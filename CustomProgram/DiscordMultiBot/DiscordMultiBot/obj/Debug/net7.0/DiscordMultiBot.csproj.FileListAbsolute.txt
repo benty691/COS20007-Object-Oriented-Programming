@@ -1,9 +1,3 @@
-/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordMultiBot/bin/Debug/net7.0/NUnit3.TestAdapter.dll
-/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordMultiBot/bin/Debug/net7.0/NUnit3.TestAdapter.pdb
-/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordMultiBot/bin/Debug/net7.0/nunit.engine.dll
-/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordMultiBot/bin/Debug/net7.0/nunit.engine.api.dll
-/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordMultiBot/bin/Debug/net7.0/nunit.engine.core.dll
-/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordMultiBot/bin/Debug/net7.0/testcentric.engine.metadata.dll
 /Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordMultiBot/bin/Debug/net7.0/DiscordMultiBot.deps.json
 /Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordMultiBot/bin/Debug/net7.0/DiscordMultiBot.runtimeconfig.json
 /Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordMultiBot/obj/Debug/net7.0/DiscordMultiBot.GeneratedMSBuildEditorConfig.editorconfig
