@@ -38,4 +38,7 @@
   <ItemGroup>
     <Folder Include="Tests\" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DiscordMultiBot\DiscordMultiBot.csproj" />
+  </ItemGroup>
 </Project>
