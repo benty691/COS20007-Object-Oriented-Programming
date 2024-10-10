@@ -1,5 +1,15 @@
-/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordBotTests/obj/Debug/net7.0/DiscordBotTests.csproj.AssemblyReference.cache
 /Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordBotTests/obj/Debug/net7.0/DiscordBotTests.GeneratedMSBuildEditorConfig.editorconfig
 /Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordBotTests/obj/Debug/net7.0/DiscordBotTests.AssemblyInfoInputs.cache
 /Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordBotTests/obj/Debug/net7.0/DiscordBotTests.AssemblyInfo.cs
+/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordBotTests/bin/Debug/net7.0/NUnit3.TestAdapter.dll
+/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordBotTests/bin/Debug/net7.0/NUnit3.TestAdapter.pdb
+/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordBotTests/bin/Debug/net7.0/nunit.engine.dll
+/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordBotTests/bin/Debug/net7.0/nunit.engine.api.dll
+/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordBotTests/bin/Debug/net7.0/nunit.engine.core.dll
+/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordBotTests/bin/Debug/net7.0/testcentric.engine.metadata.dll
+/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordBotTests/bin/Debug/net7.0/DiscordBotTests.deps.json
+/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordBotTests/bin/Debug/net7.0/DiscordBotTests.runtimeconfig.json
+/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordBotTests/obj/Debug/net7.0/DiscordBotTests.csproj.CopyComplete
+/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordBotTests/obj/Debug/net7.0/DiscordBotTests.genruntimeconfig.cache
+/Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordBotTests/obj/Debug/net7.0/DiscordBotTests.csproj.AssemblyReference.cache
 /Users/dalebent/Documents/GitHub/ProjectReport/CustomProgram/DiscordMultiBot/DiscordBotTests/obj/Debug/net7.0/DiscordBotTests.csproj.CoreCompileInputs.cache
